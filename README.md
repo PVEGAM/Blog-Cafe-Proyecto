@@ -6,7 +6,7 @@ Proyecto pagina web sobre blog de cafe, especial para la publicacion de contenid
 * [Secciones de contenido](#secciones-de-contenido)
   * [Inicio](#inicio)
   * [Nosotros](#nosotros)
-  * [Nuestros procimo cursos y talleres](#nuestros-proximos-cursos-y-talleres)
+  * [Nuestros proximos cursos y talleres](#nuestros-proximos-cursos-y-talleres)
   * [Contacto](#contacto)
 * [Contenido pagina web](#contenido-pagina-web)
 * [Secciones de contenido](#secciones-de-contenido)
